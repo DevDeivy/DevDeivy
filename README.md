@@ -1,4 +1,4 @@
-<h4 align="left">✨ ¡Hello, i am Deivy Lujan!<br><br>🥷 About me<br>I am in constant progress with the goal of becoming a full stack developer. Currently, I am focused on learning and mastering both client-side and server-side technologies.<br><br>🚀 Objetives<br>My objetive is to grow as a fullstack developer, contribute to meaningful projects and continue learning new web development technologies and I look for opportunities to apply my knowledge in real-world environments.</h4>
+<h4 align="left">✨ ¡Hello, i am Deivy Lujan!<br><br>🥷 About me<br>I am in constant progress with the goal of becoming a full stack developer and ML. Currently, I am focused on learning and mastering both client-side and server-side technologies.<br><br>🚀 Objetives<br>My objetive is to grow as a fullstack developer, contribute to meaningful projects and continue learning new web development technologies and I look for opportunities to apply my knowledge in real-world environments.</h4>
 
 ###
 
