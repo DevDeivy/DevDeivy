@@ -1,13 +1,7 @@
 <h4 align="left">✨ ¡Hello, i am Deivy Lujan!<br><br>🥷 About me<br>I am in constant progress with the goal of becoming a full stack developer and ML. Currently, I am focused on learning and mastering both client-side and server-side technologies.<br><br>🚀 Objetives<br>My objetive is to grow as a fullstack developer, contribute to meaningful projects and continue learning new web development technologies and I look for opportunities to apply my knowledge in real-world environments.</h4>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevDeivy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=blue-green&hide_border=true" height="180" alt="languages graph"  />
-</div>
-
-###
-
+Technologies
+```
 <div align="left">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -25,6 +19,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
 </div>
+```
 
 ###
 
