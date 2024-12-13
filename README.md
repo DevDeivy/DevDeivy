@@ -30,7 +30,8 @@
 <br clear="both">
 <img src="https://raw.githubusercontent.com/DevDeivy/DevDeivy/output/snake.svg" alt="Snake animation" />
 
-Notes
+✨Walk with me in my process✨
+Notion
 ```
 https://exultant-snapdragon-839.notion.site/Walking-with-me-1550d3fae3bf80d6bd5bdf48b0686514?pvs=74
 ```
